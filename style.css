@@ -48,8 +48,8 @@ header.banner::before {
 }
 
 .banner .logo img {
-  height: 120px; /* Ou 150px, 180px... */
-  width: auto;   /* Mantém proporção */
+  height: 180px;
+  width: auto;
 }
 
 header.banner h1 {
