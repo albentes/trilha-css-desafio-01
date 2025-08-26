@@ -126,7 +126,7 @@ header.banner button:hover {
 
 /* Seção: TRANSFORME O MUNDO COM A GENTE */
 #transform-world {
-  background-image: url('../images/woman-code.png'); /* <-- Caminho relativo */
+  background-image: url('assets/images/woman-code.png');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
