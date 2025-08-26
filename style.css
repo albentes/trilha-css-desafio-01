@@ -1,11 +1,11 @@
-
+/* Reset básico */
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Estilo 
+/* Estilo geral da página */
 body {
   background-color: #0A0A0A;
   color: white;
